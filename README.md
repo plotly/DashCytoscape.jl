@@ -15,7 +15,7 @@ A Dash component library for creating interactive and customizable networks in J
 
 ## Documentation
 
-The [Dash Cytoscape User Guide](https://dash.plotly.com/cytoscape/) contains everything you need to know about the library. It contains useful examples, functioning code, and is fully interactive. You can also use the [component reference](https://dash.plotly.com/cytoscape/reference/) for a complete and concise specification of the API.
+The [Dash Cytoscape User Guide](https://dash-julia.plotly.com/cytoscape) contains everything you need to know about the library. It contains useful examples, functioning code, and is fully interactive. You can also use the [component reference](https://dash.plotly.com/cytoscape/reference/) for a complete and concise specification of the API.
 
 To learn more about the core Dash components and how to use callbacks, view the [Dash documentation](https://dash.plotly.com/).
 
