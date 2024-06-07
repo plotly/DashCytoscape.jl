@@ -5,6 +5,12 @@ A Dash component library for creating interactive and customizable networks in J
 
 ![usage-stylesheet-demo](https://raw.githubusercontent.com/plotly/dash-cytoscape/master/demos/images/usage-stylesheet-demo.gif)
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-community.png" width="400px" alt="Maintained by the Plotly Community">
+  </a>
+</div>
+
 * 🌟 [Medium Article](https://medium.com/@plotlygraphs/introducing-dash-cytoscape-ce96cac824e4)
 * 📣 [Community Announcement](https://community.plotly.com/t/announcing-dash-cytoscape/19095)
 * 💻 [Github Repository](https://github.com/plotly/DashCytoscape.jl)
